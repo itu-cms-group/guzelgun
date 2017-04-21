@@ -3,7 +3,7 @@
 ## runcards ##
 
  1. `diboson.cmnd`: vector boson pair production
- 2. `qcd2by2.cmnd` : HardQCD 2 by 2 events
+ 2. `qcd2by2.cmnd` : HardQCD 2 by 2 events. For more details, please see [Pythia documentation](http://home.thep.lu.se/~torbjorn/pythia81html/QCDProcesses.html)
  3. `readSLHA.cmnd` : reads SLHA input, generates hepmc output
  4. `wProd.cmnd` : single W boson production
 
