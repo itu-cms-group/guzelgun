@@ -1,4 +1,4 @@
-# Pythia 8.23.2
+# Pythia 8.22.3
 
 ## runcards ##
 
