@@ -7,7 +7,7 @@
  3. `readSLHA.cmnd` : reads SLHA input, generates hepmc output
  4. `wProd.cmnd` : single W boson production
 
-##Example:
+## Example: ##
 
  Within `main41.cc`  add:
  
